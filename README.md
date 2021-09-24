@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Whatever that makes me grow as a Developer
 - 📫 How to reach me ...
 - LINKEDIN: www.linkedin.com/in/jose-luis-ojeda-polo ;
-- WHATSAPP: +57 300 7730068 \n
+- WHATSAPP: +57 300 7730068
 - MAIL: jlojeda0903@gmail.com
 
 <!---
