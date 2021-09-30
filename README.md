@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Node.js, GO
 - 💞️ I’m looking to collaborate on ... Whatever that makes me grow as a WEB Developer
 - 📫 How to reach me ...
-- Visit my Profile in [LINKEDIN](www.linkedin.com/in/jose-luis-ojeda-polo)
+- Visit my Profile in [LINKEDIN](http://www.linkedin.com/in/jose-luis-ojeda-polo)
 - WHATSAPP: +57 300 7730068
 - EMAIL: jlojeda0903@gmail.com
 
