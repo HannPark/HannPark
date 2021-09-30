@@ -1,4 +1,4 @@
-#README
+# README
 - 👋 Hi, I’m @HannPark but my real name is Jose Luis Ojeda
 - 👀 I’m interested in ... JavaScript, Node.js, HTML, CSS, Being a Backend Developer, Music, Guitar, Hero's Series...
 - 🌱 I’m currently learning ... Node.js, GO
