@@ -1,7 +1,7 @@
 # README
 - 👋 Hi, I’m @HannPark but my real name is Jose Luis Ojeda
 - 👀 I’m interested in ... JavaScript, Node.js, HTML, CSS, Being a Backend Developer, Music, Guitar, Hero's Series...
-- 🌱 I’m currently learning ... Angular + NodeJs
+- 🌱 I’m currently learning ... Angular + NodeJs + GraphQL
 - 💞️ I’m looking to collaborate on ... Whatever that makes me grow as a WEB Developer
 - 📫 How to reach me ...
 - Visit my Profile in [LINKEDIN](http://www.linkedin.com/in/jose-luis-ojeda-polo)
